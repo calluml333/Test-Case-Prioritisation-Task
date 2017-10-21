@@ -1,0 +1,5 @@
+READ ME File for TCP. Coding by Callum Little and Stephen Gardiner
+
+
+In GA, Hill Climber and Random python scripts you must input the file location of the csv versions of the big and small fault matrices that we have included. Where to place these has been highlighted in each script. 
+
