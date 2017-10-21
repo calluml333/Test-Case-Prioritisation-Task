@@ -1,5 +1,24 @@
 READ ME File for TCP. Coding by Callum Little and Stephen Gardiner
 
 
-In GA, Hill Climber and Random python scripts you must input the file location of the csv versions of the big and small fault matrices that we have included. Where to place these has been highlighted in each script. 
+In GA, Hill Climber and Random python scripts you must input the file location of the csv versions of the big 
+and small fault matrices that we have included. Where to place these has been highlighted in each script. 
+
+
+___________________________ Intro ____________________________
+
+The task was to find the optimal ordering of a test suite which contained 5 tests from the small fault matrix.
+This was repeated for the Large fault matrix, where the test suites contained 20 tests.
+
+In each fault matrix, the test number is labelled tn, with 1's and 0's preceding. These apply to the faults 
+that each test either detects (1) or does not detect (0). 
+
+
+_________________________ Findings ___________________________
+
+(more details of the findings will be updated as I have time to do so)
+
+The GA was found to be the most effective way of dtermining the optimized ordering for the tests for both fault 
+matrices. 
+
 
